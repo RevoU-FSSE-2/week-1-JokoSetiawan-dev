@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
 
 # Hi!
-![alt text](image/me.jpg|width=100)
+![](image/me.jpg =100x100)
 Joko Setiawan - FSSE Student at RevoU
 ## About this repo
 this is assignment week 1, make simple website used basic html, css and javascript.
