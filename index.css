@@ -1,17 +1,47 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   height: 100%;
-  background-image: url(image/4858794.jpg);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-a {
-  color: #1f6e8c;
-  font-weight: bolder;
+.logo {
+  color: black;
+  font-size: 1.2em;
+}
+
+nav {
+  display: flex;
+  background-color: whitesmoke;
+  justify-content: space-around;
+  height: 50px;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  width: 40%;
+  justify-content: space-between;
+}
+
+nav ul li a:hover {
+  color: rgb(181, 194, 185);
+}
+
+nav ul li a{
+  color: #525F56;
+  text-decoration: none;
+  font-size: 0.85em;
 }
 
 .my-pict {
@@ -20,7 +50,7 @@ a {
 }
 
 .span {
-  color: #1f6e8c;
+  color: #525F56;
 }
 
 button {
